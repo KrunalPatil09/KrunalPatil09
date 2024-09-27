@@ -7,7 +7,7 @@
 
 - 📝 I’m regularly active on [https://www.linkedin.com/in/krunal09/](https://www.linkedin.com/in/krunal09/)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack.**
 
 - 📫 How to reach me **krunalpatil006@gmail.com**
 
