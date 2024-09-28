@@ -12,7 +12,7 @@
 - 🤝 I’m looking for help with **nginx**  
 - 💬 Ask me about **React, Node.js, JavaScript**  
 - 📫 How to reach me: **krunalpatil006@gmail.com**  
-- ⚡ Fun fact: **System Design is easier for me**  
+- ⚡ Fun fact: **I treat code like a playlist—clean, well-structured, and always hitting the right notes!**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
