@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **MedLife**  
+- 🔭 I’m currently working on **Schedura**  
 - 🌱 I’m currently learning **nginx and Deep Backend Framework**  
 - 🤝 I’m looking for help with **nginx**  
 - 💬 Ask me about **React, Node.js, JavaScript**  
